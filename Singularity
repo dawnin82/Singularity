@@ -29,7 +29,8 @@ apt-get clean
 pip3 install --upgrade pip
 pip3 install tensorflow-gpu==1.4.0
 pip3 install keras==2.0.8
-pip3 install setuptools wheel Pillow scikit-learn matplotlib ipython==5.5.0
+###pip3 install setuptools wheel Pillow scikit-learn matplotlib ipython==5.5.0
+pip3 install setuptools wheel Pillow scikit-learn matplotlib ipython
 pip3 install h5py
 pip3 install --upgrade notebook
 pip3 install cython
