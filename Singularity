@@ -36,6 +36,7 @@ pip3 install --upgrade notebook
 pip3 install cython
 pip3 install Biopython
 pip3 install six
+pip3 install python3-tk
  
 ###
 ### destination for NIH HPC bind mounts
